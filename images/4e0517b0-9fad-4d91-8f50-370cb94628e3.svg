@@ -1,0 +1,11 @@
+<svg id="youtube-icon" class="social-menu__svg-icon" width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g class="social-menu__svg-fill" transform="translate(-67.000000, -3.000000)" fill="#FEFEFE">
+            <g>
+                <g transform="translate(67.000000, 3.000000)">
+                    <path d="M17.0078,9.0122 L17.0078,2.9312 C17.0078,2.9312 17.0078,0.0002 14.0758,0.0002 L2.9298,0.0002 C2.9298,0.0002 -0.0002,0.0002 -0.0002,2.9312 L-0.0002,9.0122 C-0.0002,9.0122 -0.0002,11.9432 2.9298,11.9432 L14.0758,11.9432 C14.0758,11.9432 17.0078,11.9432 17.0078,9.0122 L17.0078,9.0122 Z M11.8058,5.9802 L6.2378,9.2502 L6.2378,2.7092 L11.8058,5.9802 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
